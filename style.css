@@ -56,3 +56,8 @@ background-color: #83b5ab;
 #mapbox {
   height: 500px;
 width : 100%; }
+
+#frame {
+  background-color: #ccd9ff;
+  opacity 0.8;
+}
